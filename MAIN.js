@@ -4,3 +4,10 @@
 // 一个学习强国的帮手 用于学习强国官网自动学习 帮助一些成年人（或许未来包括孩子）快乐地完成来自学习强国的作业，让更多时间思考人生的意义
 // Telegram频道 TG: LearningThePooh
 alert("hellp,world");
+let urlMap = {
+    "index": "https://www.xuexi.cn",
+    "points": "https://pc.xuexi.cn/points/login.html",
+    "scoreApi": "https://pc-proxy-api.xuexi.cn/api/score/days/listScoreProgress?sence=score&deviceType=2",
+    "channelApi": "https://www.xuexi.cn/lgdata/",
+};
+// …
