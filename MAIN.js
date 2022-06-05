@@ -10,4 +10,4 @@ let urlMap = {
     "scoreApi": "https://pc-proxy-api.xuexi.cn/api/score/days/listScoreProgress?sence=score&deviceType=2",
     "channelApi": "https://www.xuexi.cn/lgdata/",
 };
-// …
+// xuexi.cn自动学习 当前目录内压缩包下载后解压使用
